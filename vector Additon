@@ -1,3 +1,5 @@
+//n blocks and one thread per block (In this n=6)
+
 #include<stdio.h>
 #include<cuda.h>
 
